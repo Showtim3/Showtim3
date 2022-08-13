@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate fullstack developer, love the JS ecosystem, Angular, React, Typescript, Nodejs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=showtim3&label=Profile%20views&color=0e75b6&style=flat" alt="showtim3" /> </p>
 
